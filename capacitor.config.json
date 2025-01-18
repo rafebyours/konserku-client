@@ -1,5 +1,13 @@
 {
   "appId": "com.tugas",
-  "appName": "tugas1-app",
-  "webDir": "dist"
+  "appName": "Konserku",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
 }

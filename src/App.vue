@@ -1,13 +1,22 @@
 <template>
-  <main>
-    <router-view/>
-  </main>
+  <div id="app">
+    <main>
+      <router-view />
+      <RealtimeNotification />
+    </main>
+  </div>
 </template>
 
-<script setup>
+<script>
+import RealtimeNotification from './components/RealtimeNotification.vue';
 
+export default {
+  components: {
+    RealtimeNotification,
+  },
+};
 </script>
 
-<style lang="scss" scoped>
-
+<style scoped>
+/* Add any global styles here */
 </style>

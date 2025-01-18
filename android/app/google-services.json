@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "873524263353",
+    "firebase_url": "https://ticketconcert-59a85-default-rtdb.firebaseio.com",
+    "project_id": "ticketconcert-59a85",
+    "storage_bucket": "ticketconcert-59a85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873524263353:android:0d264f0a069bb31051de68",
+        "android_client_info": {
+          "package_name": "com.tugas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVGA1JmFiSykGr--odSNNg6fZPvSp89jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

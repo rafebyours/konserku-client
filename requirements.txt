@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+pymongo
+werkzeug
+pytz
+firebase-admin
